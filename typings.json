@@ -1,0 +1,15 @@
+{
+  "globalDependencies": {
+    "canvasjs": "registry:dt/canvasjs#0.0.0+20160317120654",
+    "createjs-lib": "registry:dt/createjs-lib#0.0.0+20160317120654",
+    "css": "registry:dt/css#0.0.0+20151120051005",
+    "escape-html": "registry:dt/escape-html#0.0.0+20160320155408",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "gulp-ruby-sass": "registry:dt/gulp-ruby-sass#1.0.5+20160316155526",
+    "gulp-sass": "registry:dt/gulp-sass#0.0.0+20160316155526",
+    "javascript-astar": "registry:dt/javascript-astar#0.0.0+20160316171810",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008",
+    "three": "registry:dt/three#0.0.0+20160627210315",
+    "vue": "registry:dt/vue#1.0.21+20160720100422"
+  }
+}

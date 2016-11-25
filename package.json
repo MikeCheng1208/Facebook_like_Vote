@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.13.2",
+    "css-loader": "^0.25.0",
+    "doiuse": "^2.4.1",
+    "file-loader": "^0.9.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-if": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-webpack": "^1.5.0",
+    "html-loader": "^0.4.4",
+    "image-webpack-loader": "^2.0.0",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "postcss-loader": "^0.13.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.3.1",
+    "vue-hot-reload-api": "^1.2.0",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^8.5.2",
+    "vue-style-loader": "^1.0.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  },
+  "dependencies": {
+    "gulp-task": "^2.1.0"
+  },
+  "name": "mike",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

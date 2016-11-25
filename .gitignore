@@ -1,0 +1,7 @@
+node_modules
+dist
+tmp
+ppt
+app
+*.lnk
+/.sass-cache
